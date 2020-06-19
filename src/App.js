@@ -7,7 +7,9 @@ function App() {
     <div className="App">
 
       <Dinner Dishname="Chicken Birayani"/>
+      <br/>
       <Dinner Dishname="Mutton Karahi"/>
+      <br/>
       <Dinner Dishname="Aloo Chips"/>
 
       
